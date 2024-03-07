@@ -1,0 +1,66 @@
+$headerStroke: rgba(0, 31, 77, 0.15);
+$textColor: #161a29;
+$textLightColor: #5e5e7a;
+$blue: #0066ff;
+$headerHeight: 4.75rem;
+
+$primary-100: #f5f6ff;
+
+$Montserrat: "Montserrat", sans-serif;
+$heading: 3.5rem;
+$heading-medium: 2rem;
+$fs-small: 0.875rem;
+
+$sidebarWidth: 270px;
+
+// Bootstrap Variables
+
+$white: #ffffff;
+$gray-100: #f8f9fa !default;
+$gray-200: #e9ecef !default;
+$gray-300: #dee2e6 !default;
+$gray-400: #ced4da !default;
+$gray-500: #adb5bd !default;
+$gray-600: #6c757d !default;
+$gray-700: #495057 !default;
+$gray-800: #343a40 !default;
+$gray-900: #212529 !default;
+
+$primary: #662d91;
+$danger: #f45151;
+$teal: #20c997 !default;
+$pink: #d63384 !default;
+$green: #198754;
+$cyan: #0dcaf0;
+$yellow: #ffc107;
+$secondary: $gray-600 !default;
+$success: $green !default;
+$info: $blue !default;
+$warning: $yellow !default;
+$light: $gray-100 !default;
+$dark: $gray-900 !default;
+
+$body-color: $gray-900 !default;
+
+$box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !default;
+
+$dropdown-bg: $gray-200;
+$dropdown-border-color: transparent;
+$dropdown-divider-bg: $headerStroke;
+$dropdown-link-hover-color: $white;
+$dropdown-link-hover-bg: $primary;
+$dropdown-link-active-color: $white;
+$dropdown-link-active-bg: $primary;
+
+$offcanvas-horizontal-width: 300px !default;
+
+$nav-underline-link-active-color: $primary;
+$accordion-padding-x: 0.5rem;
+
+$danger-text-emphasis: $danger;
+
+$table-cell-padding-y: 0.5rem !default;
+$table-cell-padding-x: 1rem !default;
+
+$headings-line-height: 1.4;
+$headings-margin-bottom: 1rem;
